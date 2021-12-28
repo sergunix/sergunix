@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sergunix Sergei Sergeev 
+- 👋 Hi, I’m @sergunix Sergei G. Sergeev 
 - 👀 I’m interested in IT technologies
 - 🌱 I’m currently learning devops instruments
 - 💞️ I’m looking to collaborate on anyone who 
